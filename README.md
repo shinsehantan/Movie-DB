@@ -1,23 +1,13 @@
-Boilerplate-mern-stack is being sponsored by the following tool <br />
-Please help to support us by taking a look and signing up to a free trial
-<a href="https://tracking.gitads.io/?repo=boilerplate-mern-stack"><img src="https://images.gitads.io/boilerplate-mern-stack" alt="GitAds"/></a> 
+## Movie DB
 
+This is Shinsehantan's Movie-DB website.<br />
 
-Hello, My Friends  
-Thank you for having interest in this repository ! 
+#### I use for this website...
+* React
+* Node JS
+* Mongo DB
+* Express JS 
+* The Movie DB API <br />
 
-To use this application, 
-
-1. make dev.js file inside config folder 
-2. put mongoDB info into dev.js file 
-3. Type  " npm install " inside the root directory  ( Download Server Dependencies ) 
-4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
-
-
-If you have problem, feel free to ask me ^^ 
-
-You can watch the tutorial for this app.
-
-https://www.youtube.com/channel/UCFyXA9x8lpL3EYWeYhj4C4Q?view_as=subscriber
-
-
+<img width="600px" src="https://user-images.githubusercontent.com/67591151/98004830-bb54e300-1e33-11eb-9e64-7b2c6cd1acb7.jpg">
+<img width="600px" src="https://user-images.githubusercontent.com/67591151/98004847-c27bf100-1e33-11eb-8525-ec4dc40ff88b.jpg">
